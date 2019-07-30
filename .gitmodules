@@ -1,3 +1,6 @@
 [submodule "admin-site"]
 	path = admin-site
 	url = git@github.com:xuanlongvts/admin-site.git
+[submodule "Git_Demo"]
+	path = Git_Demo
+	url = git@github.com:xuanlongvts/Git_Demo.git
